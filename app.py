@@ -18,6 +18,4 @@ st.write(f"The cube of {n} is: {cube}")
 st.write(f"The fifth power of {n} is: {fifth_power}")
 
 
-
-
 # run the app with: streamlit run app.py
